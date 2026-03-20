@@ -46,8 +46,8 @@ project:
             - file: how-to-guides/precipitation_sis_projections.ipynb
     - file: explanation.ipynb
       title: Explanation
-      - file: explanation/return_period.md
       children:
+        - file: explanation/return_period.md
         - title: Towards Risk Assessments
           children: 
             - file: explanation/hazard.md
