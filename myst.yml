@@ -11,10 +11,10 @@ project:
   open_access: true
   exclude:
     - developer/*
-  github: ecmwf-training/jupyter-template
+  github: jkeune/extreme_precip_exposure
   thebe:
     binder:
-      repo: ecmwf-training/jupyter-template
+      repo: jkeune/extreme_precip_exposure
       provider: github
       url: https://mybinder.org
       ref: develop
