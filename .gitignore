@@ -167,3 +167,10 @@ cython_debug/
 .ipynb_checkpoints/
 
 _build/
+
+# Local data
+data/regions/NUTS*
+data/c3s_atlas/historical/*.nc
+data/c3s_atlas/projections/*.nc
+data/ITF2/extreme_precip_exposure/ITF2_precip_proj_all_points.csv
+data/ITF2/extreme_precip_exposure/ITF2_precip_proj_nutsmax.csv
