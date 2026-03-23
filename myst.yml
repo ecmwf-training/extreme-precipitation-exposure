@@ -43,7 +43,7 @@ project:
             - file: how-to-guides/population_ghs.ipynb
         - title: Process Hazard Data
           children:
-            - file: how-to-guides/precipitation_sis_projections.ipynb
+            - file: how-to-guides/precipitation_c3satlas.ipynb
     - file: explanation.ipynb
       title: Explanation
       children:
