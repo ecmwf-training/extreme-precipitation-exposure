@@ -174,3 +174,8 @@ data/c3s_atlas/historical/*.nc
 data/c3s_atlas/projections/*.nc
 data/ITF2/extreme_precip_exposure/ITF2_precip_proj_all_points.csv
 data/ITF2/extreme_precip_exposure/ITF2_precip_proj_nutsmax.csv
+data/ITF2/extreme_precip_exposure/ITF2_precip_hist_all_points.csv
+.gitignore
+data/ITF2/extreme_precip_exposure/ITF2_precip_hist_all_points_member0.csv
+data/ITF2/extreme_precip_exposure/ITF2_precip_hist_amax_nutsmax.csv
+data/ITF2/extreme_precip_exposure/ITF2_precip_proj_amax_nutsmax.csv
