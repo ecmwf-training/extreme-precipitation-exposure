@@ -29,6 +29,7 @@ project:
       children:
         - title: Storylines
           children:
+            - file: tutorials/return_period.ipynb
             - file: tutorials/changing_hazard.ipynb
         - title: Explore Exposure Data
           children:
