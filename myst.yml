@@ -57,6 +57,9 @@ project:
             - file: explanation/risk.md
     - file: references.ipynb
       title: References
+      children:
+        - file: references/fair.md
+        - file: references/valorada.md
 site:
   template: book-theme
   options:
