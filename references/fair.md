@@ -2,7 +2,7 @@
 
 ```{admonition} What does FAIR mean?
 :class: note
-The [FAIR principles](https://doi.org/10.1038/sdata.2016.18) — **Findable, Accessible, Interoperable, and Reusable** — provide a framework for making scientific data and software as useful as possible, both for humans and machines. 
+The FAIR principles {cite}`wilkinson2016fair` — **Findable, Accessible, Interoperable, and Reusable** — provide a framework for making scientific data and software as useful as possible, both for humans and machines. 
 ```
 
 ## This jupyter book is FAIR because:

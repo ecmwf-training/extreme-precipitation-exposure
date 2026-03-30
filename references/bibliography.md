@@ -1,4 +1,5 @@
 # Bibliography
 
 ```{bibliography}
+:filter: True
 ```
