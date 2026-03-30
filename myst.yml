@@ -62,7 +62,6 @@ project:
       children:
         - file: references/fair.md
         - file: references/valorada.md
-        - file: references/bibliography.md
 site:
   template: book-theme
   options:
