@@ -12,6 +12,7 @@ project:
   exclude:
     - developer/*
   github: jkeune/extreme_precip_exposure
+  bibliography: references.bib
   thebe:
     binder:
       repo: jkeune/extreme_precip_exposure
@@ -60,6 +61,7 @@ project:
       children:
         - file: references/fair.md
         - file: references/valorada.md
+        - file: references/bibliography.md
 site:
   template: book-theme
   options:
