@@ -55,7 +55,8 @@ project:
             - file: explanation/exposure.md
             - file: explanation/vulnerability.md
             - file: explanation/risk.md
-
+    - file: references.ipynb
+      title: References
 site:
   template: book-theme
   options:
