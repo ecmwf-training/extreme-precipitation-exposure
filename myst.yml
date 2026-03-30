@@ -12,7 +12,8 @@ project:
   exclude:
     - developer/*
   github: jkeune/extreme_precip_exposure
-  bibliography: references.bib
+  bibliography:
+    - references.bib
   thebe:
     binder:
       repo: jkeune/extreme_precip_exposure
