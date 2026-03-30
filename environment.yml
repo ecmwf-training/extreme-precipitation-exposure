@@ -5,4 +5,13 @@ dependencies:
   - xarray
   - matplotlib
   - cartopy
+  - geopandas
+  - pandas
+  - scipy
+  - plotly
+  - folium
+  - seaborn
+  - tqdm
+  - regionmask
+  - rioxarray
   - jupyterlab-myst
