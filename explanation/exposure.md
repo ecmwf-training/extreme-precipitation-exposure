@@ -1,2 +1,24 @@
 # Understanding Extreme Precipitation Exposure: Spatial, Functional, and Human Dimensions
 
+The Copernicus Climate Change Service (C3S) entrusted to ECMWF (European Centre for Medium-Range Weather Forecasts)
+
+## What Extreme Precipitation Exposure Means
+
+Extreme precipitation exposure refers to the people, ecosystems, infrastructure, and economic activities located in areas where intense rainfall or snowfall events may occur. In climate‑risk frameworks, exposure is not defined by location alone. It also reflects how dependent various systems are on land, drainage, and water‑management structures that can be overwhelmed when precipitation exceeds design capacity. Exposure is therefore both geographic—where communities and assets are situated—and functional—how sensitive they are to sudden or persistent high water volumes. Systems with limited drainage, steep terrain, poor soil infiltration, or high urban density are particularly sensitive, meaning they can experience severe impacts even when surrounding areas do not.
+
+## Spatial Patterns and Shifting Precipitation Extremes
+
+The spatial distribution of regions prone to heavy rainfall, flash floods, or prolonged wet spells is a primary determinant of exposure. Mountainous regions, monsoon‑influenced zones, coastal areas affected by cyclones, and river basins with high seasonal variability naturally face elevated exposure. In many of these places, communities are located on floodplains, deltas, or steep slopes where intense precipitation quickly translates into runoff, erosion, and flooding.
+However, the footprint of exposure is expanding. Climate change is altering atmospheric moisture content, storm tracks, and the frequency of stalled weather systems, leading to extreme precipitation in regions that historically experienced more moderate rainfall. Urban expansion into flood‑prone zones—such as riverbanks, reclaimed land, and low‑lying coastal areas—adds new layers of exposure. Infrastructure built for past rainfall patterns is increasingly insufficient in the face of more intense downpours, extending exposure into areas previously considered safe.
+
+## Human Pressures, Land Use Change, and Demographic Dynamics
+
+Human activities strongly influence both the location and magnitude of exposure to extreme precipitation. Rapid urbanization creates large areas of impervious surfaces—roads, roofs, and pavements—that limit water infiltration and accelerate runoff, intensifying flood peaks. Settlements expanding into wetlands, floodplains, and steep hillsides place more people and assets directly in harm’s way.
+Land‑use practices also affect exposure. Deforestation, soil compaction from intensive agriculture, and the loss of natural buffers such as wetlands reduce the landscape’s ability to absorb or slow water flow. As a result, even moderate heavy‑rain events can trigger floods or landslides in degraded environments. Communities relying on rain‑sensitive infrastructure—such as informal housing, small‑scale agriculture, or poorly engineered drainage—are particularly vulnerable, as they lack robust structures to cope with sudden water surges.
+Demographic growth amplifies these dynamics. Population increases in flood‑prone basins raise the number of people exposed, while the spread of informal settlements into marginal or high‑risk areas accelerates the concentration of at‑risk communities. Meanwhile, rural populations dependent on land and natural drainage patterns can face rising exposure when local ecosystems lose their capacity to buffer extreme rainfall.
+
+## Economic and Systemic Dimensions of Exposure
+
+Extreme precipitation affects a wide range of economic sectors, including transportation, agriculture, energy, manufacturing, and tourism. Critical infrastructure—roads, bridges, power lines, water‑treatment facilities—often lies in low‑lying or river‑adjacent areas where heavy rainfall can quickly cause disruption. In many countries, these systems form the backbone of economic activity, meaning that exposure translates into potential losses far beyond the immediate hazard zone.
+Exposure is also systemic. Flooding in one location can disrupt supply chains, energy grids, transportation networks, and communication systems across regions. Industrial zones, ports, and logistics hubs often cluster near rivers or coastlines for economic reasons, making them highly exposed to extreme precipitation. Insurance markets, food supply systems, and public budgets are similarly affected when repeated heavy‑rain events strain financial and governance capacities.
+This interconnected nature of exposure highlights the need for integrated planning across sectors and regions. As extreme precipitation becomes more intense and more spatially unpredictable, managing exposure requires coordinated land‑use planning, resilient infrastructure, and climate‑informed investment strategies.
