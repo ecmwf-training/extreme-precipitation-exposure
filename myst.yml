@@ -33,6 +33,7 @@ project:
           children:
             - file: tutorials/return_period.ipynb
             - file: tutorials/changing_hazard.ipynb
+            - file: tutorials/exposed_people_extreme_precip.ipynb
         - title: Explore Exposure Data
           children:
             - file: tutorials/population.ipynb
