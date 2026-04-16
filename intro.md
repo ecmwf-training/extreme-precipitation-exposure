@@ -1,4 +1,4 @@
-# Towards regions resilient against extreme precipitation
+# Towards regions resilient to extreme precipitation
 
 This jupyter book is developed as part of the VALORADA project, which **empowers European regions and cities to steer the upcoming societal transformation towards sustainable and climate-resilient development**. Therefore, this book provides hands-on tools and explanations around the **extreme precipitation** hazard, and helps users and muncipalities to estimate the impact of extreme precipitation in the past and in the future. 
 

@@ -1,4 +1,5 @@
-# Towards Drought-Resilient Regions
+# Towards regions resilient to extreme precipitation
+
 
 This is a Jupyter Book providing hands-on tools and explanations to help European regions and municipalities estimate past and future exposure of people to extreme precipitation. It has been developed in the context of the VALORADA project to support the use of climate data; specifically the promotion of 'good practice' and showcase how open-source data can be used to support regional climate risk and vulnerability assessments.
 
